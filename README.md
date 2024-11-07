@@ -25,7 +25,7 @@ This resume showcases my professional journey as a software developer, freelance
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/resume-repo.git
+   git clone https://github.com/gowthampsych/resume.git
    ```
 2. Install a LaTeX distribution (if you haven't already), such as [TeX Live](https://www.tug.org/texlive/) or [MikTeX](https://miktex.org/).
 3. Open the `resume.tex` file in a LaTeX editor (e.g., [Overleaf](https://www.overleaf.com/), [TeXShop](http://pages.uoregon.edu/koch/texshop/), etc.).
